@@ -94,12 +94,12 @@ body {
 
 @media (hover: hover) {
   .faq-question:hover {
-    color: hsl(293, 94%, 67%);
+    color: #AD28EB;
   }
 }
 
 .faq-question:active {
-  color: hsl(293, 94%, 67%);
+  color: #AD28EB;
 }
 
 .faq-item img {
