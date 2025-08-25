@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/faq-accordion-417k4_jOU-)
 - Live Site URL: [GitHub Pages](https://1krasyuk.github.io/FAQ-accordion/)
 
 ## My process
@@ -58,7 +58,5 @@ This challenge was more about building confidence with the basics and completing
 
 - Frontend Mentor - [@1krasyuk](https://www.frontendmentor.io/profile/1krasyuk)
 - Twitter (X) - [@1krasyuk](https://x.com/1krasyuk)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 
