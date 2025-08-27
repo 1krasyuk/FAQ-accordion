@@ -17,12 +17,10 @@
 }
 
 body {
-
   background-image: url("assets/images/background-pattern-desktop.svg");
   background-repeat: no-repeat;
-  background-size: contain; /* или contain, если нужно */
+  background-size: contain;
   background-position: top center;
-
   position: relative;
   font-family: var(--font-family);
   font-size: var(--font-size-body);
@@ -100,12 +98,12 @@ body {
 
 @media (hover: hover) {
   .faq-question:hover {
-    color: #AD28EB;
+    color: #ad28eb;
   }
 }
 
 .faq-question:active {
-  color: #AD28EB;
+  color: #ad28eb;
 }
 
 .faq-item img {
